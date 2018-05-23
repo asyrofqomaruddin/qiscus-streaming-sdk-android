@@ -14,6 +14,6 @@ public class SampleApplication extends Application {
     public void onCreate() {
         super.onCreate();
         Qiscus.init(this, "sdksample");
-        QiscusStreaming.init(this, "elR1SnZGVElndUpDV2gxcDBuRFFhcGFmc3l0bFdSbENmOTlLQ1ZDTA==");
+        QiscusStreaming.init(this, "N2t5czYwU0VFMEgzdVZySW9WYWQ5alN6Q29KU2NnZndEeGppMThWZA==");
     }
 }
